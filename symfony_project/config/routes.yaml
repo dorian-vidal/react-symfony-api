@@ -1,3 +1,9 @@
 controllers:
-    resource: ../src/Controller/
-    type: attribute
+  resource: ../src/Controller/
+  type: attribute
+# api_login_check:
+#   path: /api/login_check
+
+# gesdinet_jwt_refresh_token:
+#   path: /api/token/refresh
+#   controller: gesdinet.jwtrefreshtoken::refresh

@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jms/serializer-bundle": "^4.0",
+        "symfony/password-hasher": "^6.1"
+    }
+}
